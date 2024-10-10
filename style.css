@@ -449,7 +449,8 @@ object-fit:contain;
 #birdbox .our-story-card-img{
   position: relative;
   z-index: 2;
-transform: translate(20px,-10px);
+transform: translate(20px,0px);
+  width: 600px;
 }
 #saif .our-story-card-img-container {
   width: 48%;
@@ -494,7 +495,7 @@ margin-bottom: 10em;
 #download{
   width: 84%;
   height:80% ;
-  transform: translateY(-9px);
+  transform: translateY(0px);
 }
 #downloading{
   display: flex;
